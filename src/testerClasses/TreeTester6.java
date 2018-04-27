@@ -27,6 +27,8 @@ public class TreeTester6 {
 		// display elements as a list
 		Utils.displayTreeElements("The elements of the tree are: ", t);
 		
+		
+		
 	}
 
 }
